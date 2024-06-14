@@ -9,7 +9,7 @@ I am looking for new opportunities to challenge myself and to learn more.
   - CERTIFICAT CISCO: CCNA-Cisco Certified Network Associate : 2022-2023
 # Skills / Competencies
   - **Technologies Java** : Java (JEE)
-  - **Languages** : C / C++ / C# / Python / Java / SQL
+  - **Languages** : C / C++ / C# / Python / Java
   - **Web developpement** : html / CSS / JavaScript
   - **Databases** : MySQL / MySQL SERVER/ FireBase
   - **Mobile App Frameworks** : React Native
