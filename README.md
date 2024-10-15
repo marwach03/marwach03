@@ -17,13 +17,14 @@ I am currently studying for a master's student in Information Systems Engineerin
     - DevOps Solutions: Docker, Google Cloud Platform, GitHub Actions (CI/CD), Jira, Git
     - Design Methods: Agile (Scrum), Merise
     - Design and Prototyping: UML, Figma
-    - **Web Services**: REST
+    - Web Services: REST
 # Soft Skills
   - Team spirit
   - Quick learner
   - Highly organized
+  - Sociable
 # Interests
   - Music
   - Cinema
-  - Travel
+  - Handcrafts
   - Member of the Theater Club
