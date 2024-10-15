@@ -1,19 +1,23 @@
-Third-year student in Software Engineering at the Higher School of Engineering in Applied Sciences (ESISA). 
-Motivated and passionate with a strong interest in the field of computer science. 
-I am looking for new opportunities to challenge myself and to learn more.
+I am currently studying for a master's student in Information Systems Engineering with a strong background in software development. I’m always ready to take on new challenges and learn more. I’m looking for new opportunities to grow and contribute to exciting projects in the field of computer science.
+
 # Education
-  - Bachelor's Degree in Software Engineering (IL) | **ESISA** :  2023 – 2024
-  - 1st and 2nd year with honors | **ESISA** : 2021-2023
+  - 1st year of Master's in Information Systems Engineering and Artificial Intelligence (ISI2IA) at **ESISA**: (in progress) | 2024-2025
+  - Bachelor's in Software Engineering (IL) at ESISA: High Honors | 2021-2024
   - High School Diploma in Life and Earth Sciences with honors | June 2021
 # Certification
-  - CERTIFICAT CISCO: CCNA-Cisco Certified Network Associate : 2022-2023
+  - CERTIFICAT CISCO : Certificat Linux Essentials : 2022-2023
 # Skills / Competencies
-  - **Technologies Java** : Java (JEE)
-  - **Languages** : C / C++ / C# / Python / Java
-  - **Web developpement** : html / CSS / JavaScript
-  - **Databases** : MySQL / MySQL SERVER/ FireBase
-  - **Mobile App Frameworks** : React Native
-  - **Back-end Frameworks** : Express.js with Node.js
+    - Java Technologies: Jakarta EE, Spring Boot
+    - Programming Languages: C, C++, C#, Python, Java
+    - Web Development: HTML, CSS, JavaScript, React.js, TailwindCSS, Node.js
+    - Mobile Development: React Native, Flutter
+    - Databases: MySQL, MySQL Server, Cloud Firestore, Firebase, Oracle
+    - Data Analysis: Tanagra, Business Intelligence, R Language, Sphinx
+    - Frameworks: Express.js, Flask
+    - DevOps Solutions: Docker, Google Cloud Platform, GitHub Actions (CI/CD), Jira, Git
+    - Design Methods: Agile (Scrum), Merise
+    - Design and Prototyping: UML, Figma
+    - **Web Services**: REST
 # Soft Skills
   - Team spirit
   - Quick learner
