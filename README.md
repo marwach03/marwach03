@@ -27,8 +27,14 @@
 
 ## 💼 Professional Experience
 
+### 🔹 Internship – Zenika, Casablanca  
+📆 *June 23 – September 5, 2025 (3 months)*  
+- Developed **“Random Lunch”**, a web app that creates random groups of employees to promote team bonding.  
+- **Technologies:** Next.js, Tailwind CSS, Node.js, Express.js, Cloud Firestore, Docker, GCP, GitHub Actions, Jira, Agile Scrum.
+
+
 ### 🔹 Work-Study Internship – Full Stack Developer  
-**KYBOHO, Fez** | 📆 *2025 – In Progress*  
+**KYBOHO, Fez** | 📆 *July 29 – August 29, 2025 (1 month)* 
 - Contributed to the development and enhancement of full-stack web applications.  
 - **Technologies:** Node.js, React.js, Express.js, MongoDB, GitHub, Vercel, Heroku, Flutter, Scrum.
 
@@ -39,17 +45,11 @@
 - Participated in the development of scalable web applications.  
 - **Technologies:** Node.js, React.js, Express.js, MongoDB, Flutter, Scrum.
 
----
-
-### 🔹 Internship – Zenika, Casablanca  
-📆 *July 29 – August 29, 2025 (1 month)*  
-- Developed **“Random Lunch”**, a web app that creates random groups of employees to promote team bonding.  
-- **Technologies:** Next.js, Tailwind CSS, Node.js, Express.js, Cloud Firestore, Docker, GCP, GitHub Actions, Jira, Agile Scrum.
 
 ---
 
 ### 🔹 End-of-Studies Internship – Zenika, Casablanca  
-📆 *June 23 – September 5, 2025 (3 months)*  
+📆 *June 3 – September 15, 2024 (3 months)*  
 - Designed and developed **“Nearby Connect”**, a web app connecting event participants via LinkedIn.  
 - **Technologies:** React.js, Tailwind CSS, Node.js, Express.js, Firestore, Docker, GCP, GitHub Actions, Jira, Agile Scrum.
 
