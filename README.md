@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm [Marwa CHAOUI]
 
 🎓 I’m a **fourth-year student** pursuing an **Engineering Degree in Industrial and Computer Engineering (GII)** at **Polytech Marseille – Aix-Marseille University, France**, with a strong background in **software development**.  
 💡 Passionate about **Web Development**, **AI**, and **Software Engineering**, I’m always eager to learn, innovate, and contribute to meaningful projects.  
