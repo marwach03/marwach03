@@ -1,103 +1,164 @@
-# 👋 Hello, I'm [Marwa CHAOUI]
+# 👋 Hello, I'm Marwa CHAOUI
 
-🎓 I’m a **fourth-year student** pursuing an **Engineering Degree in Industrial and Computer Engineering (GII)** at **Polytech Marseille – Aix-Marseille University, France**, with a strong background in **software development**.  
-💡 Passionate about **Web Development**, **AI**, and **Software Engineering**, I’m always eager to learn, innovate, and contribute to meaningful projects.  
-🚀 Currently seeking new opportunities to grow and collaborate on impactful technological solutions.
+🎓 **4th-year Engineering Student in Industrial and Computer Engineering (GII)** at **Polytech Marseille – Aix-Marseille University, France**.
+
+💡 Passionate about **Software Engineering, Web Development, Artificial Intelligence, NLP, and Data Engineering**.
+
+🚀 Currently seeking an **internship / work-study opportunity (alternance)** to strengthen my technical skills and contribute to innovative technological projects.
 
 ---
 
 ## 🎓 Education
 
-- **Engineering Degree** – *Industrial and Computer Engineering (GII)*  
-  *Polytech Marseille – Aix-Marseille University, France*  
-  📆 *2025–2027 (In Progress)*  
+### Engineering Degree – Industrial and Computer Engineering (GII)
+**Polytech Marseille – Aix-Marseille University, France**  
+📆 *2025 – Present*
 
-- **1st Year of Master’s in Information Systems Engineering and Artificial Intelligence (ISI2IA)**  
-  *ESISA – École Supérieure d’Ingénierie en Sciences Appliquées*  
-  🏅 *High Honors* | 📆 *2024–2025*  
+### 1st Year Master's – Information Systems Engineering & Artificial Intelligence (ISI2IA)
+**ESISA – École Supérieure d’Ingénierie en Sciences Appliquées**  
+🏅 *High Honors*  
+📆 *2024 – 2025*
 
-- **Bachelor’s in Software Engineering (IL)**  
-  *ESISA – École Supérieure d’Ingénierie en Sciences Appliquées*  
-  🏅 *High Honors* | 📆 *2021–2024*  
+### Bachelor's in Software Engineering (IL)
+**ESISA – École Supérieure d’Ingénierie en Sciences Appliquées**  
+🏅 *High Honors*  
+📆 *2021 – 2024*
 
-- **High School Diploma in Life and Earth Sciences**  
-  🏅 *With Honors* | 📆 *June 2021*
+### High School Diploma – Life and Earth Sciences
+🏅 *With Honors*  
+📆 *June 2021*
 
 ---
 
 ## 💼 Professional Experience
 
-### 🔹 Internship – Zenika, Casablanca  
-📆 *June 23 – September 5, 2025 (3 months)*  
-- Developed **“Random Lunch”**, a web app that creates random groups of employees to promote team bonding.  
-- **Technologies:** Next.js, Tailwind CSS, Node.js, Express.js, Cloud Firestore, Docker, GCP, GitHub Actions, Jira, Agile Scrum.
+### 🔹 NLP / AI & Data Engineering Intern – AIDA Lab, University of Cassino, Italy *(Current)*
 
+📆 *May 2026 – August 2026*
 
-### 🔹 Work-Study Internship – Full Stack Developer  
-**KYBOHO, Fez** | 📆 *July 29 – August 29, 2025 (1 month)* 
-- Contributed to the development and enhancement of full-stack web applications.  
-- **Technologies:** Node.js, React.js, Express.js, MongoDB, GitHub, Vercel, Heroku, Flutter, Scrum.
+- Developing a **multilingual NLP pipeline (EN/IT)** transforming raw text into structured JSON and embeddings.
+- Building a **RAG system** combining **NER, Aspect-Based Sentiment Analysis, hybrid BM25 + dense retrieval**.
+- Exposing services through **FastAPI APIs**.
 
----
-
-### 🔹 Full Stack Development Intern  
-**KYBOHO, Fez** | 📆 *March 29 – July 29, 2025 (4 months)*  
-- Participated in the development of scalable web applications.  
-- **Technologies:** Node.js, React.js, Express.js, MongoDB, Flutter, Scrum.
-
+**Tech Stack:** Python, FastAPI, spaCy, Hugging Face, RAG, Docker, Prometheus, Grafana.
 
 ---
 
-### 🔹 End-of-Studies Internship – Zenika, Casablanca  
-📆 *June 3 – September 15, 2024 (3 months)*  
-- Designed and developed **“Nearby Connect”**, a web app connecting event participants via LinkedIn.  
-- **Technologies:** React.js, Tailwind CSS, Node.js, Express.js, Firestore, Docker, GCP, GitHub Actions, Jira, Agile Scrum.
+### 🔹 Internship – Zenika, Casablanca
+
+📆 *June 2025 – September 2025*
+
+- Developed **“Random Lunch”**, a web application creating random employee groups to foster team bonding.
+
+**Tech Stack:** Next.js, Tailwind CSS, Node.js, Express.js, Cloud Firestore, Docker, GCP, GitHub Actions, Jira, Agile Scrum.
 
 ---
 
-### 🔹 Projects (2022–2025)
+### 🔹 Full Stack Developer Intern – KYBOHO, Fez
 
-- 🧠 **Intelligent Clinical Assistant – Top Health AI**  
-  Domains: Surgery & Clinical QA | **Tech:** Hugging Face (roberta-base-squad2), Fine-tuning, Streamlit  
+📆 *July 2025 – August 2025*
 
-- 🌿 **Plant Disease Detection**  
-  **Tech:** CNN, TensorFlow/Keras, scikit-learn, NumPy, Pandas, Seaborn  
+- Contributed to the development and enhancement of full-stack web applications.
 
-- 🏡 **Real Estate Price Prediction**  
-  **Tech:** Linear Regression, Ridge & Lasso, Decision Trees, Random Forest  
+**Tech Stack:** Node.js, React.js, Express.js, MongoDB, Flutter, GitHub, Vercel, Heroku, Scrum.
 
-- 📱 **Mental Health Mobile App**  
-  **Tech:** React Native, Node.js, Express, Firebase, Android Studio, Expo Go  
+---
 
-- ⚡ **Electric Vehicle Sound Generator**  
-  **Tech:** Arduino, Proteus  
+### 🔹 Work-Study Full Stack Developer – KYBOHO, Fez
 
-- 📦 **Stock Management System**  
-  **Tech:** C++, Python (PyQt5), SQL  
+📆 *March 2025 – July 2025*
 
-- 📊 **Survey on Working Women**  
-  **Tech:** R Language, Sphinx, Google Forms, Tanagra  
+- Participated in developing scalable web applications.
+
+**Tech Stack:** Node.js, React.js, Express.js, MongoDB, Flutter, Scrum.
+
+---
+
+### 🔹 End-of-Studies Internship – Zenika, Casablanca
+
+📆 *June 2024 – September 2024*
+
+- Designed and developed **“Nearby Connect”**, a web application connecting event participants via LinkedIn.
+
+**Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, Firestore, Docker, GCP, GitHub Actions, Jira, Agile Scrum.
+
+---
+
+## 🚀 Projects
+
+### 🧠 EgiIA — Artificial Engineer of GII *(2025–2026)*
+
+Development of an **LLM-based AI assistant** capable of answering technical questions using a specialized GII knowledge corpus.
+
+**Tech:** Python, Mistral AI, Hugging Face, React, TailwindCSS, Fine-tuning, Data Processing Pipeline.
+
+---
+
+### 🏥 Intelligent Clinical Assistant – Top Health AI
+
+Clinical Question Answering system for surgery and healthcare.
+
+**Tech:** Hugging Face *(roberta-base-squad2)*, Fine-tuning, Streamlit.
+
+---
+
+### 🌿 Plant Disease Detection using Deep Learning
+
+**Tech:** CNN, TensorFlow/Keras, scikit-learn, NumPy, Pandas, Seaborn.
+
+---
+
+### 🏡 Real Estate Price Prediction
+
+**Tech:** Linear Regression, Ridge & Lasso, Decision Trees, Random Forest.
+
+---
+
+### 📱 Mental Health Mobile Application
+
+**Tech:** React Native, Node.js, Express.js, Firebase, Android Studio, Expo Go.
+
+---
+
+### 📦 Stock Management System
+
+**Tech:** C++, Python (PyQt5), SQL.
+
+---
+
+### 📊 Survey on Working Women
+
+**Tech:** R Language, Sphinx, Google Forms, Tanagra.
 
 ---
 
 ## 🧾 Certifications
 
-- **Cisco Certificate – Linux Essentials** | 📆 *2022–2023*
+- **Cisco Certificate – Linux Essentials** *(2022–2023)*
 
 ---
 
-## 🧠 Programming Languages & Technologies
+## 🧠 Technical Skills
 
 | Category | Technologies |
-|-----------|--------------|
-| **Programming Languages** | Java, Jakarta EE, Spring Boot, C#, C++, C |
-| **Web & Mobile Development** | HTML, CSS, JavaScript, React.js, Node.js, Next.js, React Native, Flutter |
-| **Data Science & Analytics** | Python, Tanagra, Business Intelligence, Operational Research (OR), R, Sphinx |
-| **Databases** | MySQL, SQL Server, Google Cloud Firestore, Firebase, Oracle, MongoDB |
-| **Frameworks** | Express.js, Flask |
-| **DevOps & Cloud Tools** | Docker, Google Cloud Platform (GCP), GitHub Actions (CI/CD), Jira, Git |
+|----------|---------------|
+| **Programming Languages** | Python, Java, C#, C++, C |
+| **Backend** | Node.js, Express.js, Flask, FastAPI, Spring Boot, .NET, ASP.NET Core |
+| **Frontend & Mobile** | HTML, CSS, JavaScript, React.js, Next.js, React Native, Flutter |
+| **AI / Data Science** | Python, Hugging Face, NLP, RAG, TensorFlow, Machine Learning, Business Intelligence, R |
+| **Databases** | MySQL, PostgreSQL, Oracle, MongoDB, Firebase, Google Cloud Firestore |
+| **DevOps & Cloud** | Docker, Google Cloud Platform (GCP), GitHub Actions, Jira, Git, Prometheus, Grafana |
 | **Project Management** | Agile Scrum |
-| **Design & Modeling** | MERISE, UML, Design Patterns, Figma, MVC, SOLID Principles |
+| **Design & Modeling** | UML, MERISE, MVC, SOLID Principles, Design Patterns, Figma |
+
+---
+
+## 🌍 Languages
+
+- 🇫🇷 French — Advanced  
+- 🇬🇧 English — Intermediate  
+- 🇮🇹 Italian — Beginner  
+- 🇲🇦 Arabic — Native Speaker  
 
 ---
 
@@ -106,26 +167,34 @@
 - 🤝 Team Spirit  
 - ⚡ Fast Learner  
 - 🧭 Organized & Detail-Oriented  
-- 😊 Sociable and Adaptable  
+- 😊 Sociable & Adaptable  
 
 ---
 
 ## 🎯 Interests
 
 - 🎶 Music  
-- 🎬 Cinema  
-- 🪡 Handcrafts  
-- 🎭 Member of the Theater Club  
+- 🎬 Cinema *(Sci-Fi & Fantasy)*  
+- 🎭 Member of AMU Choir  
+- 🪡 President of Handcraft Club  
+- 🥋 Taekwondo  
+- 🏛️ Participation in ESISA Forums  
 
 ---
 
 ## 📫 Contact
 
-📍 Based in: **France 🇫🇷**  
-💼 LinkedIn: [https://www.linkedin.com/in/marwa-chaoui-151494296/](#)  
-💻 GitHub: [https://github.com/marwach03](#)  
-📧 Email: [chaoui.marwa.ch@gmail.com](mailto:your.email@example.com)
+📍 **Based in:** Marseille, France 🇫🇷  
+
+💼 **LinkedIn:**  
+[linkedin.com/in/marwa-chaoui-151494296](https://www.linkedin.com/in/marwa-chaoui-151494296/)
+
+💻 **GitHub:**  
+[github.com/marwach03](https://github.com/marwach03)
+
+📧 **Email:**  
+chaoui.marwa.ch@gmail.com
 
 ---
 
-⭐ *“Always eager to learn, build, and create meaningful technology.”*
+⭐ *Always eager to learn, build, and create meaningful technology.*
