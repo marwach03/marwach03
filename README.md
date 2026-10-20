@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Marwa CHAOUI
 
-🎓 **4th-year Engineering Student in Industrial and Computer Engineering (GII)** at **Polytech Marseille – Aix-Marseille University, France**.
+🎓 **Engineering Student in Industrial and Computer Engineering (GII)** at **Polytech Marseille – Aix-Marseille University, France**.
 
 💡 Passionate about **Software Engineering, Web Development, Artificial Intelligence, NLP, and Data Engineering**.
 
